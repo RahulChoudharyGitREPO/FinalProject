@@ -1,0 +1,12 @@
+.image-container{
+    display: flex; /* Use flexbox for easier centering */
+    justify-content: center; /* Center the content horizontally */
+    align-items: center; /* Center the content vertically */
+    height: 100vh; 
+}
+.MainImg{
+    height: 80%;
+    width: 80%;
+    border-radius: 10px;
+
+}

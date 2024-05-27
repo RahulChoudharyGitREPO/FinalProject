@@ -1,0 +1,28 @@
+.Main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #fefefe;
+    color: #4f4d4d;
+}
+
+.Right h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.left {
+    display: flex;
+    align-items: center;
+}
+
+.left a {
+    color: #4f4d4d;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.left a:hover {
+    text-decoration: underline;
+}
